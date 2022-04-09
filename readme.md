@@ -127,4 +127,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Questions
 
-If you have any questions about the repository, contact me directly at i.petrovicova@gmail.com. You can find more of my work at https://github.com/brandonespencer.
+If you have any questions about the repository, contact me directly at brandonespencer@yahoo.com. You can find more of my work at https://github.com/brandonespencer.
